@@ -7,3 +7,12 @@ def creation_user(user_id:int, name:str, surname:str, email:str, password:str):
     email = input('Enter self email: ')
     password = input('Enter self password: ')
 
+
+sdjgsdlgsdlgnsdg
+dsgsd
+sdgsdg
+sdgsdg
+sdgsdg
+sdgsdg
+wetwrytreg
+grgerg
